@@ -6,7 +6,7 @@
 2. Define methods that call other methods.
 
 ## Instructions
-
+ 
 In this lab you'll be learning how to iterate through an array and output the results in different ways. Write your code in the `conference_badges.rb` file and you can run the test suite using the `learn` command.
 
 You're hosting a conference and need to print badges for the speakers. Each badge should read: "Hello, my name is _____." Write a `badge_maker` method that, when provided a person's name, will create and return this message. E.g.:
